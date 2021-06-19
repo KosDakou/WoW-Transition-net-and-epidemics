@@ -6,3 +6,5 @@ The dataset used comes from the paper "World of Warcraft Avatar History Dataset"
     
 My idea was to use this dataset in order to create a graph and analyse it by applying the theory I studied in the Network Science book by Albert-László Barabási (https://barabasi.com/book/network-science).
 
+The notebook can be found here: https://www.kaggle.com/knstdk/transition-net-and-epidemics
+
